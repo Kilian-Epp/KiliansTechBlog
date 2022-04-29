@@ -1,4 +1,21 @@
 baseURL = 'https://master--dapper-zabaione-7afcec.netlify.app/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+languageCode = 'en-uk'
+title = "Kilian's Tech Blog"
 theme = "hugo-swift-theme"
+
+[params]
+    [params.designer]
+        name = "Kilian Epp"
+        url = "https://www.linkedin.com/in/dan-weru-profile/"
+    [[params.authors]]
+        name = "Kilian Epp"
+        fullName = "Your Full Name"
+        bio = "It's time to flex. Write a short or not-so-short summary about yourself."
+        photo = "myPhotoFile.jpg"
+        url = "https://myURLofChoice.domain"
+    [[params.authors]]
+        name = "Kilian Epp"
+        fullName = "Your Full Name"
+        bio = "It's time to flex. Write a short or not-so-short summary about yourself."
+        photo = "myPhotoFile.jpg"
+        url = "https://myURLofChoice.domain"
