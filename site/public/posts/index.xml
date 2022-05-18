@@ -6,14 +6,35 @@
     <description>Recent content in Posts on Kilian&#39;s Tech Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
-    <lastBuildDate>Fri, 29 Apr 2022 08:36:09 +0200</lastBuildDate><atom:link href="https://master--dapper-zabaione-7afcec.netlify.app/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 18 May 2022 16:37:44 +0200</lastBuildDate><atom:link href="https://master--dapper-zabaione-7afcec.netlify.app/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>YAML</title>
+      <link>https://master--dapper-zabaione-7afcec.netlify.app/posts/yaml/</link>
+      <pubDate>Wed, 18 May 2022 16:37:44 +0200</pubDate>
+      
+      <guid>https://master--dapper-zabaione-7afcec.netlify.app/posts/yaml/</guid>
+      <description>Creating a script to manage Git-Repositories We had a course on bash-scripting and scripting in general, and I learned a lot from it. With the new-found knowledge I was able to write a number of new scripts.
+1. Managing Unix Users The first Script I wrote is able to create, delete and adjust Users and their setting depending on the input-file. Inputs-files for the Script have to look something like this:</description>
+    </item>
+    
+    <item>
+      <title>Ansible</title>
+      <link>https://master--dapper-zabaione-7afcec.netlify.app/posts/ansible/</link>
+      <pubDate>Wed, 18 May 2022 16:33:17 +0200</pubDate>
+      
+      <guid>https://master--dapper-zabaione-7afcec.netlify.app/posts/ansible/</guid>
+      <description>What is Ansible Ansible is an automation tool, which is can help automate the administration of systems. It is developed by Red Hat and is opensource.
+1. Modules 2. Playbooks Ansible uses playbooks to record and automate Ansible&amp;rsquo;s configuration and deployment functions.</description>
+    </item>
+    
     <item>
       <title>Bash Scripting</title>
       <link>https://master--dapper-zabaione-7afcec.netlify.app/posts/bashscripting/</link>
       <pubDate>Fri, 29 Apr 2022 08:36:09 +0200</pubDate>
       
       <guid>https://master--dapper-zabaione-7afcec.netlify.app/posts/bashscripting/</guid>
-      <description></description>
+      <description>Creating a script to manage Git-Repositories We had a course on bash-scripting and scripting in general, and I learned a lot from it. With the new-found knowledge I was able to write a number of new scripts.
+1. Managing Unix Users The first Script I wrote is able to create, delete and adjust Users and their setting depending on the input-file. Inputs-files for the Script have to look something like this:</description>
     </item>
     
   </channel>

@@ -1,7 +1,7 @@
 ---
 title: "YAML"
 date: 2022-05-18T16:37:44+02:00
-draft: true
+draft: false
 image: YamlThumbnail.png
 ---
 
