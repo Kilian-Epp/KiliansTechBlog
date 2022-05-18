@@ -1,8 +1,8 @@
 ---
-title: "Bash Scripting"
-date: 2022-04-29T08:36:09+02:00
-draft: false
-image: BashScriptingThumbnail.png
+title: "YAML"
+date: 2022-05-18T16:37:44+02:00
+draft: true
+image: YamlThumbnail.png
 ---
 
 ## Creating a script to manage Git-Repositories
@@ -16,4 +16,3 @@ Inputs-files for the Script have to look something like this:
 Username Group Password
 ```
 I ran into quite a lot of issues, just because it was my first script and was supposed to be a training exercise 
-
